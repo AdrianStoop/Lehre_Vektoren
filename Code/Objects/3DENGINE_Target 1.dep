@@ -1,0 +1,24 @@
+Dependencies for Project '3DENGINE', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Main.c)(0x5655D1BA)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I E:\New\Schule\Malacarne\Projektarbeit\3D_cube_vektoren\Code\Keil\RTE-I E:\New\Schule\Malacarne\Projektarbeit\3D_cube_vektoren\Code\Keil\RTE\Device\STM32F107VC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_CL-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h)(0x53BA61C0)
+I (E:\New\Schule\Malacarne\Projektarbeit\3D_cube_vektoren\Code\Keil\RTE\RTE_Components.h)(0x5655704A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x56260B6C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB7FE0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625F7B0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625F7B0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625F7B0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h)(0x4F1E90AC)
+I (TouchP0P1.h)(0x54958A9C)
+I (math.h)(0x56557F6E)
+F (E:\New\Schule\Malacarne\Projektarbeit\3D_cube_vektoren\Code\Keil\TouchP0P1.lib)(0x54958B64)()
+F (RTE\Device\STM32F107VC\RTE_Device.h)(0x5616025E)()
+F (RTE\Device\STM32F107VC\startup_stm32f10x_cl.s)(0x4F1E90AC)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I E:\New\Schule\Malacarne\Projektarbeit\3D_cube_vektoren\Code\Keil\RTE-I E:\New\Schule\Malacarne\Projektarbeit\3D_cube_vektoren\Code\Keil\RTE\Device\STM32F107VC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include--pd "__UVISION_VERSION SETA 517" --pd "_RTE_ SETA 1" --pd "STM32F10X_CL SETA 1"--list .\listings\startup_stm32f10x_cl.lst --xref -o .\objects\startup_stm32f10x_cl.o --depend .\objects\startup_stm32f10x_cl.d)
+F (RTE\Device\STM32F107VC\system_stm32f10x.c)(0x4F1E90AC)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I E:\New\Schule\Malacarne\Projektarbeit\3D_cube_vektoren\Code\Keil\RTE-I E:\New\Schule\Malacarne\Projektarbeit\3D_cube_vektoren\Code\Keil\RTE\Device\STM32F107VC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-D__UVISION_VERSION="517" -D_RTE_ -DSTM32F10X_CL-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h)(0x53BA61C0)
+I (E:\New\Schule\Malacarne\Projektarbeit\3D_cube_vektoren\Code\Keil\RTE\RTE_Components.h)(0x5655704A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x56260B6C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB7FE0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625F7B0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625F7B0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625F7B0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h)(0x4F1E90AC)
